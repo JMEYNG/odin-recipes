@@ -1,0 +1,24 @@
+* {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1 {
+    text-align: center;
+    font-size: 72px;
+}
+
+
+
+.bigger-text { 
+    font-size: 24px;
+    
+    margin-left: 7cm;
+    margin-right: 7cm;
+}
+
+.list {
+line-height: 2;
+}
